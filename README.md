@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <details>
   <summary>Most Used Languages</summary>
-  <img alt="Top langs" src="https://github-stats-huanfrancischinelli.vercel.app/api/top-langs/?username=huanfrancischinelli&layout=compact&&langs_count=8&theme=synthwave&card_width=400&hide_title=true"/>
+  <img alt="Top langs" src="https://github-stats-huanfrancischinelli.vercel.app/api/top-langs/?username=huanfrancischinelli&theme=radical&layout=compact&&langs_count=8&card_width=400&hide_title=true"/>
 </details>
 
 <details>
   <summary>Commits Count</summary>
-  <img alt="Huan Francischinelli's GitHub stats" src="https://github-stats-huanfrancischinelli.vercel.app/api?username=huanfrancischinelli&hide=contribs,prs,stars,issues&theme=synthwave&show_icons=true&card_width=400&hide_title=true&hide_rank=true"/>
+  <img alt="Huan Francischinelli's GitHub stats" src="https://github-stats-huanfrancischinelli.vercel.app/api?username=huanfrancischinelli&theme=radical&hide=contribs,prs,stars,issues&show_icons=true&card_width=400&hide_title=true&hide_rank=true"/>
 </details>
