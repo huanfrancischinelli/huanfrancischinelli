@@ -29,10 +29,28 @@
 </picture>
 
 ### ⭐ GitHub Stats
-  <img alt="Huan Francischinelli's Most Used Languages" src="https://github-stats-huanfrancischinelli.vercel.app/api/top-langs/?username=huanfrancischinelli&theme=radical&card_width=400"/>
+<div align="center"> 
+  <img alt="Huan Francischinelli's Streak Stats" src="https://github-streak-stats-huanfrancischinelli.vercel.app/?user=huanfrancischinelli&mode=daily&count_private=true&theme=radical&border_radius=10&card_width=500&card_heigth=200"/>
+</div>
+<div align="center"> 
+  <img alt="Huan Francischinelli's Most Used Languages" src="https://github-stats-huanfrancischinelli.vercel.app/api/top-langs/?username=huanfrancischinelli&theme=radical&card_width=500&card_heigth=200"/>
+</div>
+<!-- <div align="center"> 
   <img alt="Huan Francischinelli's Commit Stats" src="https://github-stats-huanfrancischinelli.vercel.app/api?username=huanfrancischinelli&theme=radical&hide=contribs,prs,stars,issues&show_icons=true&card_width=400&hide_title=true&hide_rank=true"/>
+</div> -->
   
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=huanfrancischinelli&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="huanfrancischinelli" /> </p>
+
+##
+
+<div align="center">
+  <a href='https://ko-fi.com/huanfrancischinelli' target='_blank'>
+    <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
+  </a>
+</div>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=huanfrancischinelli&label=Profile%20views&color=FA418D&style=for-the-badge" alt="huanfrancischinelli" />
+</p>
 
 <!--
 **huanfrancischinelli/huanfrancischinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
