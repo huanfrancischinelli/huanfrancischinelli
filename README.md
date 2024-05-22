@@ -31,6 +31,8 @@
 ### ⭐ GitHub Stats
   <img alt="Huan Francischinelli's Most Used Languages" src="https://github-stats-huanfrancischinelli.vercel.app/api/top-langs/?username=huanfrancischinelli&theme=radical&card_width=400"/>
   <img alt="Huan Francischinelli's Commit Stats" src="https://github-stats-huanfrancischinelli.vercel.app/api?username=huanfrancischinelli&theme=radical&hide=contribs,prs,stars,issues&show_icons=true&card_width=400&hide_title=true&hide_rank=true"/>
+  
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=huanfrancischinelli&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="huanfrancischinelli" /> </p>
 
 <!--
 **huanfrancischinelli/huanfrancischinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
