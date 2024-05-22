@@ -2,22 +2,22 @@
 **Passionate and versatile Software Engineer with more than three years of experience delivering impactful solutions across various domains.**
 
 <div align="center">
-  <a href="mailto:huan.francischinelli@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:huan.francischinelli@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 
-  <a href="https://linkedin.com/in/huanfrancischinelli" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://linkedin.com/in/huanfrancischinelli">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
   <!--
-    <a href="https://huanfrancischinelli.github.io" target="_blank" rel="noopener noreferrer">
-       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    <a href="https://huanfrancischinelli.github.io">
+       <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
     </a>
   -->
 
-  <a href="https://instagram.com/huan.dev" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://instagram.com/huan.dev">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
 
