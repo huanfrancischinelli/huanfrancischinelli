@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### My stats ⭐
+
+<div align="left">
+  <img alt="Huan Francischinelli's GitHub stats" src="https://github-readme-stats-huanfrancischinellis-projects.vercel.app/api?username=huanfrancischinelli&hide=contribs,prs,stars,issues&theme=synthwave&show_icons=true"/>
+</div>
+
+<div align="left">
+  <img alt="Top langs" src="https://github-readme-stats-huanfrancischinellis-projects.vercel.app/api/top-langs/?username=huanfrancischinelli&layout=compact&&langs_count=8&theme=synthwave"/>
+</div>
