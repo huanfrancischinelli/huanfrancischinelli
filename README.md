@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 ### My stats ⭐
 
+
 <div align="left">
-  <img alt="Huan Francischinelli's GitHub stats" src="https://github-readme-stats-huanfrancischinellis-projects.vercel.app/api?username=huanfrancischinelli&hide=contribs,prs,stars,issues&theme=synthwave&show_icons=true"/>
+  <img alt="Top langs" src="https://github-stats-huanfrancischinelli.vercel.app/api/top-langs/?username=huanfrancischinelli&layout=compact&&langs_count=8&theme=synthwave&card_width=400"/>
 </div>
 
 <div align="left">
-  <img alt="Top langs" src="https://github-readme-stats-huanfrancischinellis-projects.vercel.app/api/top-langs/?username=huanfrancischinelli&layout=compact&&langs_count=8&theme=synthwave"/>
+  <img alt="Huan Francischinelli's GitHub stats" src="https://github-stats-huanfrancischinelli.vercel.app/api?username=huanfrancischinelli&hide=contribs,prs,stars,issues&theme=synthwave&show_icons=true&card_width=400&hide_title=true&hide_rank=true"/>
 </div>
