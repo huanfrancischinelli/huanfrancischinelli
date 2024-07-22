@@ -40,13 +40,13 @@
 </div> -->
 
 ##
-
+<!-- 
 <div align="center">
   <a href='https://ko-fi.com/huanfrancischinelli' target='_blank'>
     <img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' />
   </a>
 </div>
-
+-->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=huanfrancischinelli&label=Profile%20views&color=FA418D&style=for-the-badge" alt="huanfrancischinelli" />
 </p>
