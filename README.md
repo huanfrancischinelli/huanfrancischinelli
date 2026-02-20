@@ -1,5 +1,5 @@
 # Huan Francischinelli
-**Passionate and versatile Software Engineer with more than three years of experience delivering impactful solutions across various domains.**
+**Passionate and versatile Software Engineer with years of experience delivering impactful solutions across various domains.**
 
 <div align="center" >
   <img align="center" alt="Huan-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
